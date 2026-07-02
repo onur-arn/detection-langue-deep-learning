@@ -3,7 +3,9 @@
 ## Contexte académique
 
 Ce projet a été réalisé dans le cadre de l'**UE Apprentissage Profond** du
-**Master 2 Sciences Cognitives — parcours Intelligence Artificielle**.
+**Master 2 Sciences Cognitives — parcours Intelligence Artificielle**, à l'**Université de Lorraine**.
+
+Encadrants : **Parisa Rastin** et **Paul Magron**
 
 L'objectif de ce projet était de mettre en œuvre une **méthode de deep learning
 vue en cours** sur un problème concret. Nous avons choisi d'appliquer les
